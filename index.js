@@ -1,5 +1,7 @@
 // Dependencies
-var Rss = require("rss");
+var Rss = require("rss")
+  , Marked = require("marked")
+  ;
 
 // The init function
 module.exports = function (rss) {

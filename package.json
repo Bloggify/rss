@@ -15,7 +15,8 @@
     "rss"
   ],
   "dependencies": {
-      "rss": "1.1.1"
+      "rss": "1.1.1",
+      "marked": "0.3.2"
   },
   "author": "Ionică Bizău <bizaionica@gmail.com>",
   "license": "MIT",
