@@ -13,13 +13,17 @@
 <!-- * * * Thanks! * * *                                                    -->
 <!---------------------------------------------------------------------------->
 
-#  [![Donate now][donate-now]][paypal-donations]
+# bloggify-rss [![Donate now][donate-now]][paypal-donations]
+
+The RSS plugin for Bloggify.
 
 ## Configuration
 
 ```sh
 
 ```
+
+## Documentation
 
 ## How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
