@@ -4,12 +4,9 @@ var Rss = require("rss")
   ;
 
 // The init function
-module.exports = function (rss) {
+module.exports = function (config) {
 
-    var config = rss.config
-      , Api = Bloggify.plugins[config.api || "api"]
-      ;
-
+    var Api = Bloggify.plugins[config.api || "api"];
     config.feed_url = config.feed_url || "/api/rss";
 
     // Add the feed_url page
