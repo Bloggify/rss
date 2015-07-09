@@ -2,7 +2,7 @@
   "name": "bloggify-rss",
   "version": "1.1.0",
   "description": "The RSS plugin for Bloggify.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,13 +15,14 @@
     "rss"
   ],
   "dependencies": {
-      "rss": "1.1.1",
-      "marked": "0.3.2"
+    "rss": "1.1.1",
+    "marked": "0.3.2"
   },
   "author": "Ionică Bizău <bizaionica@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Bloggify/rss/issues"
   },
-  "homepage": "https://github.com/Bloggify/rss"
+  "homepage": "https://github.com/Bloggify/rss",
+  "devDependencies": {}
 }
