@@ -20,7 +20,19 @@ The RSS plugin for Bloggify.
 ## Configuration
 
 ```sh
-
+{
+    "name": "rss",
+    "source": "git@github.com:Bloggify/rss.git",
+    "version": "master",
+    "config": {
+        "api": "api",
+        "feed_url": "/api/rss",
+        "title": "rss title",
+        "description": "some description",
+        "language": "en",
+        "ttl": 1440
+    }
+}
 ```
 
 ## Documentation
