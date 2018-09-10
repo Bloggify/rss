@@ -1,6 +1,6 @@
 {
   "name": "bloggify-rss",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "The RSS plugin for Bloggify.",
   "main": "lib/index.js",
   "dependencies": {
@@ -37,12 +37,6 @@
         "language": "en",
         "ttl": 1440
       }
-    }
-  },
-  "bloggify": {
-    "config": {
-      "url": "/rss.xml",
-      "image_url": "/images/logo.png"
     }
   }
 }
