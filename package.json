@@ -1,6 +1,6 @@
 {
   "name": "bloggify-rss",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "The RSS plugin for Bloggify.",
   "main": "lib/index.js",
   "dependencies": {
