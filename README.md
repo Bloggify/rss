@@ -78,7 +78,7 @@ yarn add bloggify-rss
 
 ## :question: Get Help
 
-There are few ways to get help:
+There are some few ways to get help for your problem:
 
 
 
