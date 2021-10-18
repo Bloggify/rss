@@ -47,12 +47,17 @@
 
 ## :cloud: Installation
 
-```sh
+
 # Using npm
+```
 npm install --save bloggify-rss
 
+```
+
 # Using yarn
+```
 yarn add bloggify-rss
+
 ```
 
 
